@@ -1,0 +1,21 @@
+.root {
+  width: 200px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0 10px 20px 10px;
+}
+
+.root h3 {
+  margin-top: 0;
+}
+
+.delete {
+  color: #fb7575;
+  cursor: pointer;
+}
+
+.status {
+  display: flex;
+  justify-content: space-between;
+}
