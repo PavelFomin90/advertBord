@@ -1,0 +1,79 @@
+.Advert__root_50cbe {
+  width: 200px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0 10px 20px 10px;
+}
+
+.Advert__root_50cbe h3 {
+  margin-top: 0;
+}
+
+.Advert__delete_aba2b {
+  color: #fb7575;
+  cursor: pointer;
+}
+
+.Advert__status_1fcf3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.AddForm__root_cc18c {
+  width: 200px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+  margin: 0 10px 20px 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.AddForm__root_cc18c label {
+  width: 100%;
+}
+
+.AddForm__root_cc18c input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.AddAdvert__root_fad4e {
+    cursor: pointer;
+    color: #0059ff;
+}
+
+.AddAdvert__root_fad4e:hover {
+    color: #333;
+}
+
+.Layout__root_e42d8 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Popup__root_78f11 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.Popup__content_f64cb {
+  align-items: center;
+  display: flex;
+}
+
+.App__root_452de {
+  font-family: "Roboto", sans-serif;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
